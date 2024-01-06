@@ -1,4 +1,4 @@
-// index.js file
+// index.js file/
 
 import React from 'react';
 import ReactDOM from 'react-dom';
